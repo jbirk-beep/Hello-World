@@ -1,1 +1,7 @@
-Just print "Hello World"
+# Just print "Hello World"
+
+#**bold text**
+**Hello World**
+
+#![alt text](image.jpg)
+#![Logo](image.jpg)
